@@ -1,0 +1,7 @@
+[api]
+host = "localhost"
+port = 4010
+
+[auth]
+username = "your_username"
+password = "your_password"
